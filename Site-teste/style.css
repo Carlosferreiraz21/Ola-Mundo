@@ -2,6 +2,11 @@ h1 {
     text-align: center;
 }
 
+title {
+    text-align: center;
+    background-color: black;
+    color: gray;
+}
 body {
     display: flex;
     justify-content: center;
@@ -20,8 +25,8 @@ body {
 }
 
 .display {
-    background-color: #222;
-    color: #fff;
+    background-color: #b8a9a9;
+    color: #7b6767;
     font-size: 2em;
     padding: 10px;
     text-align: right;
